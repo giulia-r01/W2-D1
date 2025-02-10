@@ -81,7 +81,7 @@ console.log(mySurname)*/
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let num4 = x - 4
+let num4 = 4 - x
 console.log(num4)
 
 /* ESERCIZIO 7
@@ -98,13 +98,11 @@ let name2 = "John"
 let compare = name1 === name2
 console.log(compare)
 
+/*Oppure */
+
 let compare2 = name1 !== name2
 console.log(compare2)
 
-/* Oppure */
+/* Extra */
 
-name2 = name2.toLowerCase()
-console.log(name2)
-
-let compare3 = name1 === name2
-console.log(compare3)
+console.log(name1 === name2.toLowerCase())
