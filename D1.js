@@ -68,6 +68,13 @@ console.log(x)
 
 myName = "Rizzo"
 console.log(myName)
+
+/*const mySurname = "Rizzo"
+console.log(mySurname)
+
+mySurname = "Rossi"
+console.log(mySurname)*/
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
