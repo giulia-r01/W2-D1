@@ -100,3 +100,11 @@ console.log(compare)
 
 let compare2 = name1 !== name2
 console.log(compare2)
+
+/* Oppure */
+
+name2 = name2.toLowerCase()
+console.log(name2)
+
+let compare3 = name1 === name2
+console.log(compare3)
